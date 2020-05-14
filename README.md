@@ -18,6 +18,7 @@ Given a Rss feed, read title and links for item present in Rss Feed.
 <li>For each componet a seprate folder is created.</li>
 <li>All files related to component such as js and css fies are stored in there respective folders</li>
 </ul>
+
 ## Component structure
 > App 
 > > RssFeedForm    // Contains Form that takes Rss feed input 

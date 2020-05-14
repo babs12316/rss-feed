@@ -7,10 +7,10 @@ For each componet a seprate folder is created.
 All files related to component such as js and css fies are stored in there respective folders
 
 ## Component structure
-App\ 
- RssFeedForm    // Contains Form that takes Rss feed input \
-  Pagination     // Contains UI and logic for Pagination \
-   RssFeedIems    // Gets and displays Rss feed items \
+> App \
+> > RssFeedForm    // Contains Form that takes Rss feed input \
+> > >  Pagination     // Contains UI and logic for Pagination \
+> > > > RssFeedIems    // Gets and displays Rss feed items 
 
 
 In the project directory, you can run:
